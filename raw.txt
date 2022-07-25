@@ -1,0 +1,357 @@
+Name | Visual Studio Community 2022, | Version | 17.2.5, | Publisher | Microsoft Corporation
+Name | EpocCam drivers 3.4.0, | Version | 3.4.0, | Publisher | Elgato
+Name | FileZilla 3.60.1, | Version | 3.60.1, | Publisher | Tim Kosse
+Name | Google Chrome, | Version | 103.0.5060.134, | Publisher | Google LLC
+Name | Microsoft Edge, | Version | 103.0.1264.71, | Publisher | Microsoft Corporation
+Name | Microsoft Edge Update, | Version | 1.3.163.19, | Publisher | undefined
+Name | Microsoft Edge WebView2 Runtime, | Version | 103.0.1264.62, | Publisher | Microsoft Corporation
+Name | Nmap 7.92, | Version | 7.92, | Publisher | Nmap Project
+Name | Npcap, | Version | 1.50, | Publisher | Nmap Project
+Name | OBS Studio, | Version | 27.2.4, | Publisher | OBS Project
+Name | Origin, | Version | 10.5.113.50894, | Publisher | Electronic Arts, Inc.
+Name | Overwolf, | Version | 0.201.0.23, | Publisher | Overwolf Ltd.
+Name | Rainmeter, | Version | 4.5.13, | Publisher | Rainmeter
+Name | Elgato USB Audio Device Driver v5.30.0, | Version | 5.30.0, | Publisher | Elgato
+Name | Steam, | Version | 2.10.91.91, | Publisher | Valve Corporation
+Name | Tailscale, | Version | 1.26.0, | Publisher | Tailscale Inc.
+Name | Windows IoT Extension SDK Contracts, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Tools, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664, | Version | 12.0.40664.0, | Publisher | Microsoft Corporation
+Name | Windows SDK Modern Non-Versioned Developer Tools, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Mobile Extension SDK Contracts, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501, | Version | 12.0.30501.0, | Publisher | Microsoft Corporation
+Name | WinAppDeploy, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools arm64, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows IoT Extension SDK, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Contracts, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense UAP - en-us, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps DirectX x86 Remote, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows Mobile Extension SDK Contracts, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Tools, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense UAP - Other Languages, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK ARM Desktop Tools, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows 11 Installation Assistant, | Version | 1.4.19041.1703, | Publisher | Microsoft Corporation
+Name | Windows IoT Extension SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Libs, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual Studio Setup WMI Provider, | Version | 3.2.2137.26324, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools x64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense PPI - en-us, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs x64, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Metadata, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Team Extension SDK Contracts, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Software Development Kit - Windows 10.0.22000.194, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools x86, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Libs, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense IoT - Other Languages, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs x86, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs arm64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Modern Versioned Developer Tools, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Contracts, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs arm, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | WinAppDeploy, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Metadata, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs arm, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Facade Windows WinMD Versioned, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps DirectX x86 Remote, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Universal CRT Headers Libraries and Sources, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | vs_minshellmsires, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense IoT - en-us, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense IoT - en-us, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Libs, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Battlefield™ 1, | Version | undefined, | Publisher | Electronic Arts, Inc.
+Name | Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030, | Version | 11.0.61030.0, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers x64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | vcpp_crt.redist.clickonce, | Version | 14.32.31332, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332, | Version | 14.32.31332.0, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense PPI - en-us, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK ARM Desktop Tools, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers x86, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Facade Windows WinMD Versioned, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Mobile - en-us, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | vs_minshellinteropsharedmsi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Launcher Prerequisites (x64), | Version | 1.0.0.0, | Publisher | Epic Games, Inc.
+Name | Windows SDK Desktop Headers x86, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Mobile - en-us, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows Software Development Kit - Windows 10.0.19041.685, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31326, | Version | 14.32.31326, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers arm64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows IoT Extension SDK Contracts, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | icecap_collectionresourcesx64, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Tools, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools x64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers arm, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Universal CRT Extension SDK, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows App Certification Kit x64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows Team Extension SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | vs_communitymsires, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Windows SDK Signing Tools, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | vs_tipsmsi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs x64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Signing Tools, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Team Extension SDK Contracts, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense IoT - Other Languages, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs x86, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | MSI Development Tools, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Universal CRT Redistributable, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | SDK ARM Redistributables, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers arm, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Desktop Extension SDK Contracts, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Universal CRT Headers Libraries and Sources, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | vs_filehandler_x86, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2005 Redistributable, | Version | 8.0.61001, | Publisher | Microsoft Corporation
+Name | Windows Mobile Extension SDK, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs arm, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | vs_minshellsharedmsi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Epic Online Services, | Version | 2.0.33.0, | Publisher | Epic Games, Inc.
+Name | Windows SDK Desktop Headers arm, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows App Certification Kit SupportedApiList x86, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinAppDeploy, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows Mobile Extension SDK Contracts, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | MSI Development Tools, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | vs_CoreEditorFonts, | Version | 17.2.32615, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs x86, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | icecap_collection_neutral, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Desktop - en-us, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Team Extension SDK, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows IoT Extension SDK Contracts, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664, | Version | 12.0.40664, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31326, | Version | 14.32.31326.0, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Desktop - Other Languages, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Mobile Extension SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense PPI - Other Languages, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | vs_filehandler_amd64, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense UAP - Other Languages, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK DirectX x86 Remote, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Managed Apps Libs, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Headers, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense UAP - en-us, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools arm64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK ARM Desktop Tools, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Modern Versioned Developer Tools, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs arm64, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Desktop - Other Languages, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Universal General MIDI DLS Extension SDK, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161, | Version | 9.0.30729.6161, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664, | Version | 12.0.40664.0, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense PPI - en-us, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows IoT Extension SDK, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31326, | Version | 14.32.31326, | Publisher | Microsoft Corporation
+Name | Windows Desktop Extension SDK Contracts, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | MSI Development Tools, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK EULA, | Version | 10.1.19041.685, | Publisher | Microsoft Corporations
+Name | Universal CRT Redistributable, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows Desktop Extension SDK, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Metadata, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Universal General MIDI DLS Extension SDK, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Microsoft GameInput, | Version | 10.1.22621.1011, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers x86, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Mobile - en-us, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Headers, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs arm64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030, | Version | 11.0.61030, | Publisher | Microsoft Corporation
+Name | vs_Graphics_Singletonx86, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Headers, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Desktop - Other Languages, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Signing Tools, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | icecap_collectionresources, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps DirectX x86 Remote, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Desktop - en-us, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense UAP - Other Languages, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense Desktop - en-us, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030, | Version | 11.0.61030, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Libs x64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Universal CRT Redistributable, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | VS Immersive Activate Helper, | Version | 17.0.114.0, | Publisher | Microsoft Corporation
+Name | Windows Desktop Extension SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | vs_communitysharedmsi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers x64, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Headers arm64, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense IoT - Other Languages, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense PPI - Other Languages, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030, | Version | 11.0.61030.0, | Publisher | Microsoft Corporation
+Name | Windows SDK EULA, | Version | 10.1.22000.194, | Publisher | Microsoft Corporations
+Name | Windows SDK Desktop Headers x64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Team Extension SDK Contracts, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Universal CRT Extension SDK, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | SDK ARM Additions, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Team Extension SDK, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Universal CRT Headers Libraries and Sources, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Facade Windows WinMD Versioned, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Universal CRT Tools x86, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Desktop Extension SDK, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664, | Version | 12.0.40664, | Publisher | Microsoft Corporation
+Name | Universal General MIDI DLS Extension SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Universal CRT Extension SDK, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Managed Apps Libs, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools x86, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools x86, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows Mobile Extension SDK, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK AddOn, | Version | 10.1.0.0, | Publisher | Microsoft Corporation
+Name | Python Launcher, | Version | 3.9.7217.0, | Publisher | Python Software Foundation
+Name | Windows SDK Desktop Tools arm64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Kits Configuration Installer, | Version | 10.1.22000.194, | Publisher | Microsoft
+Name | Windows SDK Desktop Headers arm64, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219, | Version | 10.0.40219, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense UAP - en-us, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK EULA, | Version | 10.1.22621.1, | Publisher | Microsoft Corporations
+Name | Windows Desktop Extension SDK Contracts, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Windows SDK Redistributables, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501, | Version | 12.0.30501.0, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2022 X86 Debug Runtime - 14.32.31332, | Version | 14.32.31332, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense IoT - en-us, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Windows SDK Desktop Tools x64, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | vs_devenvsharedmsi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Epic Games Launcher, | Version | 1.3.23.0, | Publisher | Epic Games, Inc.
+Name | Microsoft Visual Studio Setup Configuration, | Version | 3.2.2137.26324, | Publisher | Microsoft Corporation
+Name | Windows SDK Modern Versioned Developer Tools, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows Software Development Kit - Windows 10.0.22621.1, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | vs_FileTracker_Singleton, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | WinRT Intellisense PPI - Other Languages, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Managed Apps Libs, | Version | 10.1.19041.685, | Publisher | Microsoft Corporation
+Name | Windows SDK for Windows Store Apps Contracts, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | ShareX, | Version | 14.1.0, | Publisher | ShareX Team
+Name | Auburn Sounds Graillon 2, | Version | undefined, | Publisher | undefined
+Name | BlueStacks 5, | Version | 5.8.101.1001, | Publisher | BlueStack Systems, Inc.
+Name | Cheat Engine 7.4, | Version | undefined, | Publisher | Cheat Engine
+Name | Git, | Version | 2.37.0, | Publisher | The Git Development Community
+Name | Prop and Seek, | Version | undefined, | Publisher | Vidibidi Games®
+Name | Battlefield 1 ™, | Version | undefined, | Publisher | DICE
+Name | Stumble Guys, | Version | undefined, | Publisher | Kitka Games
+Name | Unturned, | Version | undefined, | Publisher | Smartly Dressed Games
+Name | Wallpaper Engine, | Version | undefined, | Publisher | Wallpaper Engine Team
+Name | Aim Lab, | Version | undefined, | Publisher | Statespace
+Name | Among Us, | Version | undefined, | Publisher | Innersloth
+Name | WinRAR 6.11 (64-bit), | Version | 6.11.0, | Publisher | win.rar GmbH
+Name | Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664, | Version | 12.0.40664, | Publisher | Microsoft Corporation
+Name | VoiceFX (Demo) (VST3.x) v0.3.2.0-g32d09129, | Version | 0.3.2.0-g32d09129, | Publisher | Michael Fabian 'Xaymar' Dirks <info@xaymar.com>
+Name | CMake, | Version | 3.24.0, | Publisher | Kitware
+Name | vs_communityx64msi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219, | Version | 10.0.40219, | Publisher | Microsoft Corporation
+Name | DiagnosticsHub_CollectionService, | Version | 16.1.28901, | Publisher | Microsoft Corporation
+Name | NVIDIA Nsight Visual Studio Edition 2022.2.0.22095, | Version | 22.2.0.22095, | Publisher | NVIDIA Corporation
+Name | Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31332, | Version | 14.32.31332, | Publisher | Microsoft Corporation
+Name | Application Verifier x64 External Package (DesktopEditions), | Version | 10.1.22621.1, | Publisher | Microsoft
+Name | Windows Subsystem for Linux Update, | Version | 5.10.16, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030, | Version | 11.0.61030, | Publisher | Microsoft Corporation
+Name | VS JIT Debugger, | Version | 17.0.114.0, | Publisher | Microsoft Corporation
+Name | Windows App Certification Kit Native Components, | Version | 10.1.22000.194, | Publisher | Microsoft Corporation
+Name | Node.js, | Version | 16.15.1, | Publisher | Node.js Foundation
+Name | Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664, | Version | 12.0.40664, | Publisher | Microsoft Corporation
+Name | Bonjour, | Version | 3.1.0.1, | Publisher | Apple Inc.
+Name | Microsoft System CLR Types for SQL Server 2019, | Version | 15.0.2000.5, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161, | Version | 9.0.30729.6161, | Publisher | Microsoft Corporation
+Name | Windows PC Health Check, | Version | 3.6.2204.08001, | Publisher | Microsoft Corporation
+Name | Microsoft Update Health Tools, | Version | 4.67.0.0, | Publisher | Microsoft Corporation
+Name | Application Verifier x64 External Package, | Version | 10.1.22000.194, | Publisher | Microsoft
+Name | Google Drive, | Version | 60.0.2.0, | Publisher | Google LLC
+Name | Microsoft Visual Studio Installer, | Version | 3.2.2159.37022, | Publisher | Microsoft Corporation
+Name | Yubico Login for Windows, | Version | 2.0.3, | Publisher | Yubico AB
+Name | Application Verifier x64 External Package, | Version | 10.1.19041.685, | Publisher | Microsoft
+Name | Application Verifier x64 External Package (OnecoreUAP), | Version | 10.1.22621.1, | Publisher | Microsoft
+Name | vs_minshellinteropx64msi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Universal CRT Tools x64, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | icecap_collection_x64, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | NVIDIA Nsight Systems 2022.1.3, | Version | 22.1.3.3, | Publisher | NVIDIA Corporation
+Name | VS Script Debugging Common, | Version | 17.0.114.0, | Publisher | Microsoft Corporation
+Name | vs_devenx64vmsi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2005 Redistributable (x64), | Version | 8.0.61000, | Publisher | Microsoft Corporation
+Name | Elgato Wave Link, | Version | 1.5.0.2889, | Publisher | Elgato Systems
+Name | CUBLAS Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUBLAS Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA CUDA Development 11.7, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA CUDA Documentation 11.7, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUDART Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA CUDA Runtime 11.7, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUDA Toolkit, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | ${{arpDisplayName}}, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUFFT Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | cuobjdump, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUPTI, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CURAND Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CURAND Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUSOLVER Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUSOLVER Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUSPARSE Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | CUSPARSE Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | cuxxfilt, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | Demo Suite, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Graphics Driver 516.01, | Version | 516.01, | Publisher | NVIDIA Corporation
+Name | NVIDIA GeForce Experience 3.25.1.27, | Version | 3.25.1.27, | Publisher | NVIDIA Corporation
+Name | NVIDIA Optimus Update 39.3.0.0, | Version | 39.3.0.0, | Publisher | NVIDIA Corporation
+Name | NVIDIA PhysX System Software 9.21.0713, | Version | 9.21.0713, | Publisher | NVIDIA Corporation
+Name | NVIDIA Update 39.3.0.0, | Version | 39.3.0.0, | Publisher | NVIDIA Corporation
+Name | CUDA Documentation, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA FrameView SDK 1.2.7521.31103277, | Version | 1.2.7521.31103277, | Publisher | NVIDIA Corporation
+Name | NVIDIA SHIELD Streaming, | Version | 7.1.31106651, | Publisher | NVIDIA Corporation
+Name | NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf), | Version | 7.1, | Publisher | NVIDIA Corporation
+Name | NVIDIA HD Audio Driver 1.3.39.3, | Version | 1.3.39.3, | Publisher | NVIDIA Corporation
+Name | NVIDIA Install Application, | Version | 2.1002.370.0, | Publisher | NVIDIA Corporation
+Name | MEMCHECK, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NPP Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NPP Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA CUDA Nsight NVTX 11.7, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Backend, | Version | 39.3.0.0, | Publisher | NVIDIA Corporation
+Name | nvcc, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Container, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA TelemetryApi helper for NvContainer, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA LocalSystem Container, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA Message Bus for NvContainer, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA NVAPI Monitor plugin for NvContainer, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA NetworkService Container, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA Session Container, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | NVIDIA User Container, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | Disassembler, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVJPEG Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVJPEG Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVML Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NvModuleTracker, | Version | 6.14.24370.22713, | Publisher | NVIDIA Corporation
+Name | NVIDIA NodeJS, | Version | 3.25.1.27, | Publisher | NVIDIA Corporation
+Name | NVIDIA Watchdog Plugin for NvContainer, | Version | 1.37, | Publisher | NVIDIA Corporation
+Name | CUDA Profiler Tools, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | nvprune, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVRTC Runtime, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVRTC Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Telemetry Client, | Version | 16.15.2.0, | Publisher | NVIDIA Corporation
+Name | NVTX Development, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Virtual Host Controller, | Version | 3.04.0.1, | Publisher | NVIDIA Corporation
+Name | Occupancy Calculator, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | Nvidia Share, | Version | 3.25.1.27, | Publisher | NVIDIA Corporation
+Name | Compute Sanitizer, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA ShadowPlay 3.25.1.27, | Version | 3.25.1.27, | Publisher | NVIDIA Corporation
+Name | NVIDIA SHIELD Wireless Controller Driver, | Version | 3.25.1.25, | Publisher | NVIDIA Corporation
+Name | CUDA CCCL, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Update Core, | Version | 39.3.0.0, | Publisher | NVIDIA Corporation
+Name | NVIDIA Virtual Audio 4.39.0.0, | Version | 4.39.0.0, | Publisher | NVIDIA Corporation
+Name | Visual Profiler, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA CUDA Visual Studio Integration 11.7, | Version | 11.7, | Publisher | NVIDIA Corporation
+Name | NVIDIA Tools Extension SDK (NVTX) - 64 bit, | Version | 1.00.00.00, | Publisher | NVIDIA Corporation
+Name | OpenVPN 2.5.7-I602 amd64, | Version | 2.5.036, | Publisher | OpenVPN, Inc.
+Name | Microsoft Visual C++ 2022 X64 Debug Runtime - 14.32.31332, | Version | 14.32.31332, | Publisher | Microsoft Corporation
+Name | WinZip 26.0, | Version | 26.0.14610, | Publisher | Corel Corporation
+Name | Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030, | Version | 11.0.61030, | Publisher | Microsoft Corporation
+Name | Cloudflare WARP, | Version | 22.7.174.0, | Publisher | Cloudflare, Inc.
+Name | NVIDIA Nsight Compute 2022.2.0, | Version | 22.2.0.0, | Publisher | NVIDIA Corporation
+Name | Windows Subsystem for Linux WSLg Preview, | Version | 1.0.26, | Publisher | Microsoft Corporation
+Name | PuTTY release 0.77 (64-bit), | Version | 0.77.0.0, | Publisher | Simon Tatham
+Name | Windows SDK DirectX x64 Remote, | Version | 10.1.22621.1, | Publisher | Microsoft Corporation
+Name | Hue Sync, | Version | 1.8.1.28, | Publisher | Signify Netherlands B.V.
+Name | VMware Player, | Version | 16.2.3, | Publisher | VMware, Inc.
+Name | vs_minshellx64msi, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31332, | Version | 14.32.31332, | Publisher | Microsoft Corporation
+Name | vs_Graphics_Singletonx64, | Version | 17.2.32408, | Publisher | Microsoft Corporation
+Name | Epic Games Launcher Prerequisites (x64), | Version | 1.0.0.0, | Publisher | Epic Games, Inc.
+Name | Burp Suite Community Edition 2022.6.1, | Version | 2022.6.1, | Publisher | PortSwigger Web Security
+Name | Anaconda3 2022.05 (Python 3.9.12 64-bit), | Version | 2022.05, | Publisher | Anaconda, Inc.
+Name | BlueStacks X, | Version | 0.17.0.5, | Publisher | BlueStack Systems, Inc.
+Name | Discord, | Version | 1.0.9005, | Publisher | Discord Inc.
+Name | Kodi, | Version | 19.4.0.0, | Publisher | XBMC Foundation
+Name | Miniconda3 py39_4.12.0 (Python 3.9.12 64-bit), | Version | py39_4.12.0, | Publisher | Anaconda, Inc.
+Name | Microsoft OneDrive, | Version | 22.131.0619.0001, | Publisher | Microsoft Corporation
+Name | Fall Guys Tracker, | Version | 1.0.1, | Publisher | Overwolf app
+Name | PreMiD, | Version | latest, | Publisher | Timeraa
+Name | Roblox Player for logan, | Version | undefined, | Publisher | Roblox Corporation
+Name | Telegram Desktop, | Version | 4.0.2, | Publisher | Telegram FZ-LLC
+Name | CustomRP 1.16, | Version | 1.16, | Publisher | maximmax42
+Name | Microsoft Visual Studio Code (User), | Version | 1.69.2, | Publisher | Microsoft Corporation

@@ -1,0 +1,56 @@
+EpocCam drivers 3.4.0
+FileZilla 3.60.1
+Google Chrome
+Microsoft Edge Update
+Nmap 7.92
+Npcap
+OBS Studio
+Origin
+Overwolf
+Rainmeter
+Elgato USB Audio Device Driver v5.30.0
+Steam
+Tailscale
+Battlefield™ 1
+Launcher Prerequisites (x64)
+Epic Online Services
+Python Launcher
+Epic Games Launcher
+ShareX
+Auburn Sounds Graillon 2
+BlueStacks 5
+Cheat Engine 7.4
+Git
+Prop and Seek
+Battlefield 1 ™
+Stumble Guys
+Unturned
+Wallpaper Engine
+Aim Lab
+Among Us
+WinRAR 6.11 (64-bit)
+VoiceFX (Demo) (VST3.x) v0.3.2.0-g32d09129
+CMake
+Node.js
+Bonjour
+Google Drive
+Yubico Login for Windows
+Elgato Wave Link
+OpenVPN 2.5.7-I602 amd64
+WinZip 26.0
+Cloudflare WARP
+PuTTY release 0.77 (64-bit)
+Hue Sync
+VMware Player
+Epic Games Launcher Prerequisites (x64)
+Burp Suite Community Edition 2022.6.1
+Anaconda3 2022.05 (Python 3.9.12 64-bit)
+BlueStacks X
+Discord
+Kodi
+Miniconda3 py39_4.12.0 (Python 3.9.12 64-bit)
+Fall Guys Tracker
+PreMiD
+Roblox Player for logan
+Telegram Desktop
+CustomRP 1.16
